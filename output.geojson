@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "x-vetro": {
+        "id": 7475,
+        "plan_id": 80,
+        "layer_id": 44,
+        "vetro_id": "c3dd257b-6371-4759-ba2e-be82d6a6d660",
+        "source_id": null,
+        "status_id": null,
+        "created_by": 5578,
+        "has_parent": false,
+        "created_time": "2024-05-07T14:32:48.959983+00:00",
+        "feature_type": "nonnetwork_polygon",
+        "feature_table": "nonnetwork_polygons",
+        "child_vetro_ids": [],
+        "parent_vetro_id": null,
+        "last_edited_time": "2024-05-08T06:49:39.771794+00:00",
+        "has_custom_length": false,
+        "labor_template_id": null,
+        "child_line_vetro_ids": [],
+        "hardware_template_id": null,
+        "material_template_id": null,
+        "parent_line_vetro_ids": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.24378478,
+              48.205574382
+            ],
+            [
+              13.241156396,
+              48.198044767
+            ],
+            [
+              13.242437162,
+              48.196731624
+            ],
+            [
+              13.248050602,
+              48.195892422
+            ],
+            [
+              13.25123432,
+              48.197317685
+            ],
+            [
+              13.253883,
+              48.197644
+            ],
+            [
+              13.262695344,
+              48.194461449
+            ],
+            [
+              13.271147,
+              48.193689
+            ],
+            [
+              13.272416016,
+              48.194582393
+            ],
+            [
+              13.268434,
+              48.196446
+            ],
+            [
+              13.268735351,
+              48.199904885
+            ],
+            [
+              13.263617532,
+              48.202231683
+            ],
+            [
+              13.260296557,
+              48.206675394
+            ],
+            [
+              13.256080543,
+              48.214294986
+            ],
+            [
+              13.250855273,
+              48.214322439
+            ],
+            [
+              13.242405783,
+              48.210239342
+            ],
+            [
+              13.24378478,
+              48.205574382
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Name": "Ro\u00dfbach Phase 1",
+        "Status": "Planung"
+      }
+    },
+    {
+      "type": "Feature",
+      "x-vetro": {
+        "id": 7476,
+        "plan_id": 80,
+        "layer_id": 44,
+        "vetro_id": "6ce73400-d1ed-46b7-ad15-c7d0feecb5be",
+        "source_id": null,
+        "status_id": null,
+        "created_by": 5578,
+        "has_parent": false,
+        "created_time": "2024-05-08T07:04:43.985507+00:00",
+        "feature_type": "nonnetwork_polygon",
+        "feature_table": "nonnetwork_polygons",
+        "child_vetro_ids": [],
+        "parent_vetro_id": null,
+        "last_edited_time": null,
+        "has_custom_length": false,
+        "labor_template_id": null,
+        "child_line_vetro_ids": [],
+        "hardware_template_id": null,
+        "material_template_id": null,
+        "parent_line_vetro_ids": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.239995817,
+              48.235098248
+            ],
+            [
+              13.248761758,
+              48.231399342
+            ],
+            [
+              13.254619174,
+              48.225902782
+            ],
+            [
+              13.257629361,
+              48.214971062
+            ],
+            [
+              13.250855273,
+              48.214322439
+            ],
+            [
+              13.242405783,
+              48.210239342
+            ],
+            [
+              13.224527707,
+              48.213765468
+            ],
+            [
+              13.22160124,
+              48.220317738
+            ],
+            [
+              13.231213426,
+              48.233111349
+            ],
+            [
+              13.239995817,
+              48.235098248
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Name": "Ro\u00dfbach - Phase 2"
+      }
+    }
+  ]
+}
